@@ -4,7 +4,7 @@ An AI-powered news aggregation and summarization application built with Streamli
 
 1. Overview
 
-AINEWSAgentic automatically fetches the latest Artificial Intelligence news from global sources.
+AINEWSAgentic automatically fetches the latest news from global sources.
 
 Summarizes articles using a language model (LLM) into a structured markdown format.
 
